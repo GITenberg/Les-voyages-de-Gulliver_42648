@@ -1,0 +1,59 @@
+_repo: Les-voyages-de-Gulliver_42648
+_version: 0.1.0
+alternative_title: Gulliver's travels. French
+contributor:
+  illustrator:
+    agent_name: Gavarni, Paul
+    aliases:
+    - Chevalier, Sulpice Guillaume
+    - Chevalier, Sulpice-Paul
+    - Chevalier, Guillaume Sulpice
+    - Chevallier, Guillaume Sulpice
+    - Chevalier, Hippolyte
+    - Chevalier, William
+    birthdate: 1804
+    deathdate: 1866
+    gutenberg_agent_id: '41793'
+    url: http://www.gutenberg.org/2009/agents/41793
+  translator:
+    agent_name: Desfontaines, Nicolas-Marc
+    aliases:
+    - Mary, Nicolas
+    - Desfontaines, Nicolas Mary
+    deathdate: 1652
+    gutenberg_agent_id: '7714'
+    url: http://www.gutenberg.org/2009/agents/7714
+covers:
+- cover_type: archival
+  image_path: 42648-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Swift, Jonathan
+    alias: Swift, J. (Jonathan)
+    birthdate: 1667
+    deathdate: 1745
+    gutenberg_agent_id: '326'
+    url: http://www.gutenberg.org/2009/agents/326
+    wikipedia: http://en.wikipedia.org/wiki/Jonathan_Swift
+description: ''
+gutenberg_bookshelf:
+- Best Books Ever Listings
+- FR Littérature
+- FR Science fiction
+gutenberg_issued: '2013-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42648'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gulliver, Lemuel (Fictitious character) -- Fiction'
+- !lcsh 'Voyages, Imaginary -- Early works to 1800'
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Travelers -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Satire'
+title: Les voyages de Gulliver
+url: http://www.gutenberg.org/ebooks/42648
